@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Big Game, Small World: Chronicles of a Traveling Ball Player
+title: Big Game, Small World; Chronicles of a Traveling Ball Player
 ---
 
 I would be lying if I said that being able to tell a good story is not one of the biggest reasons why I have decided to do this. 
