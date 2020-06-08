@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Party in Bratislava, Wake Up in Zurich
-categories: [Romantic Mishaps]
+categories: [Deportations & Legal Trouble]
 ---
 
 2017, My first summer in Europe. I was playing in the Swiss league and we had been in a Federations Cup qualifier in Bratislava  late June. Our team was cruising and we had made it to the finals against the hometown hosts Apollo Bratislava. In this game we finally ran out of steam and played our way out of it, losing something like 7-3. It was a disappointing loss, nobody played well, but it was hell of a run… but the great part about these international tournaments, in addition to, I guess what people call SATURDAY, we were going to hit the town that night before heading back to Switzerland early Sunday morning. Win or lose, we booze.
