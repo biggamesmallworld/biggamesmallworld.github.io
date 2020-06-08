@@ -9,6 +9,7 @@ title: Intros
     <span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a>
     <article class="archive-item">
       <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url }}">READ MORE</a>
     </article>
   </li>
   {% endfor %}
