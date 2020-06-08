@@ -167,8 +167,6 @@ img {
 
 .site-avatar {
   position: relative;
-  width: 300px;
-  height: 300px;
   margin: auto;
 
   @include mobile {
@@ -179,6 +177,8 @@ img {
 
   img {
     border-radius: 5px;
+    width: 300px;
+    height: 300px;
   }
 }
 
