@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Big Game, Small World; Chronicles of a Traveling Ball Player
+title: Tent Poles and French Broads
 categories: Romantic Mishaps
 ---
 

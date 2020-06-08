@@ -20,6 +20,7 @@ I look back at our captain with a genuine “ahhhh” after his poetic descripti
 
 I understand that two adults have to do their thing. After all, I can only hope that I will as well in my middle age. I actually give them credit for blatantly not giving a fuck and getting after it. Throwing some headphones on didn’t bother me. 
 
+
 As for the second memory of my boy Javier, it was this. Towards the end of my stay with this family I came back to the apartment to find Javier a little flustered. He happened to be packing his bags to move out as well. Javier looked at me and said something along the lines of ‘I can’t with this woman anymore’. He then offered to give me a ride to the baseball field, which I quickly accepted. He dropped me off and we said our goodbyes. What did I learn from Javier? 
 
 No roar of the crowd is worth a bad contract. 

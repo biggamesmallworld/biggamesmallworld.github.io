@@ -5,6 +5,7 @@ categories: [Deportations & Legal Trouble]
 ---
 
 2017, My first summer in Europe. I was playing in the Swiss league and we had been in a Federations Cup qualifier in Bratislava  late June. Our team was cruising and we had made it to the finals against the hometown hosts Apollo Bratislava. In this game we finally ran out of steam and played our way out of it, losing something like 7-3. It was a disappointing loss, nobody played well, but it was hell of a run… but the great part about these international tournaments, in addition to, I guess what people call SATURDAY, we were going to hit the town that night before heading back to Switzerland early Sunday morning. Win or lose, we booze.
+
 	
 Early afternoon after our loss, still drinking beers at the field soaking up our defeat while the home team winners are still cleaning the field…  I believe our team became crowd favorites because we would dance to all the BP music every game. I was hitting fungos during BP throughout the week and putting on a show for the crowd.  Dropping it low, girrating the hips, and the quick footwork, I don't think any Slovakian has ever seen moves like this. They were playing everything from Bruno Mars to Russian hip hop…. Russian hip hop was my favorite. (just type these words into youtube and you cannot miss it - party maker diskoteka ). This song would become the theme song of the week. 
 	
