@@ -295,16 +295,20 @@ footer {
   min-height: 150px;
   padding: 20px;
   margin-bottom: 30px;
-  &:hover {
-    background-color: $tpWhite;
   }
 }
 
 .catLink {
   position: relative;
+  display: block;
   width: 100%;
   height: 100%;
   padding: 15px;
+  border: 1px solid $white;
+  border-radius: 10px;
+  &:hover {
+    background-color: $tpWhite;
+  }
 }
 
 
