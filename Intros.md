@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /categories/
-title: Categories
+permalink: /categories/Intros
+title: Intros
 ---
 
 <div class="archive-group">
