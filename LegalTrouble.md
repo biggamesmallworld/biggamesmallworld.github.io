@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /categories/Legal-Trouble
+permalink: /categories/Legalities
 title: Legal Trouble
 ---
 

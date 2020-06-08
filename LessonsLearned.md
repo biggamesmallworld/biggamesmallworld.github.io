@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /categories/Lessons%20Learned
+permalink: /categories/Lessons
 title: Lessons Learned
 ---
 

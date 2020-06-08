@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Creator made Italy from the designs by Michaelangelo
-categories: [Travel Stories]
+categories: [Travel]
 ---
 
 

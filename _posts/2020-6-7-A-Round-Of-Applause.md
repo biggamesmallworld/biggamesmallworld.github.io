@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Round of Applause
-categories: [Lessons Learned, Living Situations]
+categories: [Lessons, Living]
 ---
 
 My first experience playing overseas was in Barcelona. I was a young buck at the time. 22 years old, fresh out of college. I was never able to study abroad (baseball made that impossible) so this was also my first time living in another country. Though I was nervous, I found comfort in that I was going to be greeted by the club and its community, and they would help me throughout this ‘big’ transition. The club had set me up with a relatively inexpensive living situation. I would rent a room in an apartment walking distance to the baseball field. This apartment belonged to a mother of two young teenagers, one of which played for the club's cadets (kids team). Another american player had previously lived there as well. Needless to say, the family was involved within the baseball community (you meet a lot of these, they’re everywhere). 
