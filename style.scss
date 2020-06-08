@@ -234,7 +234,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $white;
     }
   }
 }
@@ -283,6 +283,15 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+
+// Categories styles 
+.archive-group {
+  border-radius: 10px;
+  border: 1px solid $white;
+  background-color: $bgBlue;
+
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
