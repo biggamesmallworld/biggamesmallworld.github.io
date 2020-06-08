@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /categories/Intros
+permalink: /categories/Lessons-Learned
 title: Lessons Learned
 ---
 

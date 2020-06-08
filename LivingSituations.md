@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /categories/Intros
+permalink: /categories/Living-Situations
 title: Living Situations
 ---
 
