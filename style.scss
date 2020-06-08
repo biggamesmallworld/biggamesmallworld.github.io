@@ -292,7 +292,9 @@ footer {
   border-radius: 10px;
   border: 1px solid $white;
   background-color: $bgBlue;
-
+  :hover {
+    background-color: $tpWhite;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
