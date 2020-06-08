@@ -292,7 +292,7 @@ footer {
   border-radius: 10px;
   border: 1px solid $white;
   background-color: $bgBlue;
-  :hover {
+  &:hover {
     background-color: $tpWhite;
   }
 }
