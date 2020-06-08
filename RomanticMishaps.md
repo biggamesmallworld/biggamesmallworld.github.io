@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /categories/Romantic
+permalink: /categories/Romance
 title: Romantic Mishaps
 ---
 
