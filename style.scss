@@ -295,13 +295,12 @@ footer {
   min-height: 150px;
   padding: 20px;
   margin-bottom: 30px;
+  $grid-gutter-width: 30px !default;
   &:hover {
     background-color: $tpWhite;
   }
 }
-.catContainer {
-  padding: 15px;
-}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
