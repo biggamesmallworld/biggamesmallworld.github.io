@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just A Passerby
-categories: [Romantic Mishaps]
+categories: [Romance]
 ---
 
 While living in Barcelona I went on a road trip with two other American ball players. In 7 days we went down and around the Iberian Peninsula, hitting 6 cities across 3 countries. Lots can be told about the trip, much of which would unravel into stories of their own. As you can imagine on a trip like this (lots of places, little time) the days are pretty action packed. However, it is maybe the least memorable day of the trip that led to one of the more memorable scenarios of my time in Spain. On day 4 we stopped in Cadiz, an old city in the southwest of Spain that feels like it's made entirely of cobblestone. Also the city where I met Giulia.
