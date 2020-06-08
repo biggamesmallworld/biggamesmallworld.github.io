@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tent Poles and French Broads
-categories: Romantic Mishaps
+categories: [Romantic Mishaps]
 ---
 
 Swedish music festivals are a hidden treasure in Europe. I can’t consider myself much of a music festival goer myself but they’ve got it down pat. There was a music festival in a small rural town about 30 minutes away from where I was living, that was known for it’s free spirit.
