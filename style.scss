@@ -295,10 +295,13 @@ footer {
   min-height: 150px;
   padding: 20px;
   margin-bottom: 30px;
-  $grid-gutter-width: 30px !default;
   &:hover {
     background-color: $tpWhite;
   }
+}
+
+.catLink {
+  padding: 15px;
 }
 
 
