@@ -12,7 +12,7 @@ title: Categories
             <div class="col-md-4 archive-group" >
                 <a id="#{{ category_name | slugize }}" class="catLink" href="{{site.baseurl}}/categories/#{{category|slugize}}">
                     <h3 class="category-head">{{ category_name }}</h3>
-                    <p name="{{ category_name | slugize }}">{{ category_name | slugize }}</p>
+                    <p name="{{ category_name | slugize }}"></p>
                 </a>
             </div>
         {% endfor %}
