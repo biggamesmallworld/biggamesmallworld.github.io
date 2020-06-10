@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The God-Fearing Austrian Grandmother
-categories: [Romance]
+categories: [Romance, Living]
 ---
 
 My time in Austria contained a number of great experiences I loved, and a similar number of shitty situations that were terrible due to our ass of a club president. One of those things happened to be my living situation. This was a club I wanted to be a part of for the entire winter, and had to be pushy for them to just write up a contract to give me, even though they verbally expressed they intended to sign me. One piece of the contract they were not able to sort out was the living situation. They had expressly stated that finding an apartment for me and the other import to share would be no issue, but months passed and nothing came about. We came to agree that if they couldn’t find a place for me to live by March 1st, I was free to find another club. This agreement was trash though, because no one finds a club after March 1st. 
