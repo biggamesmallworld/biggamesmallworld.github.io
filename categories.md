@@ -13,7 +13,7 @@ title: Categories
                 <a id="#{{ category_name | slugize }}" class="catLink" href="{{site.baseurl}}/categories/{{ category_name | slugize }}">
                     <h3 class="category-head">{{ category_name }}</h3>
                     <p name="{{ category_name | slugize }}"></p>
-                    <i class="fa fa-arrow-right category-arrow bounce" aria-hidden="true"></i>
+                    <i class="fa fa-arrow-right category-arrow" aria-hidden="true"></i>
                 </a>
             </div>
         {% endfor %}

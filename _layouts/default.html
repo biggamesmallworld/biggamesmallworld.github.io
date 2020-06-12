@@ -54,8 +54,10 @@
     {% include analytics.html %}
   </body>
   <script>
-    $('.archive-group').hover(
-      alert('great job dumbass, you hovered')
-    );
+    $(function(){
+      $('.archive-group').hover(function() {
+        $(this).find('.category-arrow').toggleClass('bounce');
+      })
+    })
   </script>
 </html>
